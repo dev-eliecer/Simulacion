@@ -1,0 +1,4 @@
+eliecer_simulacion:
+    resource: "@EliecerSimulacionBundle/Resources/config/routing.yml"
+    prefix:   /
+
