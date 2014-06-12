@@ -1,3 +1,7 @@
 eliecer_simulacion_homepage:
     pattern:  /hello/{name}
     defaults: { _controller: EliecerSimulacionBundle:Default:index }
+
+cuadrado_index:
+    pattern:  /cuadrado
+    defaults: { _controller: EliecerSimulacionBundle:Cuadrado:index }
